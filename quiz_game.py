@@ -1,4 +1,4 @@
-# Simple quiz game.py
+# Simple quiz game
 # Date: 2/17/2023
 # Author: Hyunjin Kim
 # Reference: https://youtu.be/DLn3jOsNRVE
